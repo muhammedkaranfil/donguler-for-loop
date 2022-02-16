@@ -1,0 +1,15 @@
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\ref\donguler-for-loop.dll
+F:\deneme1\for loop\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+F:\deneme1\for loop\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
